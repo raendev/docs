@@ -1,3 +1,8 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+[Introduction](README.md)
+
+# User Guide
+
+- [Installation](./guide/installation.md)
+- [Usage](./guide/usage.md)
