@@ -3,4 +3,12 @@ authors = ["Willem Wyndham"]
 language = "en"
 multilingual = false
 src = "src"
-title = "RAEN"
+title = "RAEN Docs"
+
+[output.html]
+git-repository-url = "https://github.com/raendev/docs/tree/master"
+edit-url-template  = "https://github.com/raendev/docs/tree/master/{path}"
+
+[output.html.playground]
+editable = true
+line-numbers = true
