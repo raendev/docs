@@ -18,7 +18,7 @@ npm install --global raen-cli
 
 ## Additional requirements
 
-`raen` is an extension for [`near-cli-rs`](https://github.com/near/near-cli-rs/tree/master/extensions), but until this project is stable now you need to install the JS version `near-cli` to deploy your contracts.
+`raen` is designed an extension for [`near-cli-rs`](https://github.com/near/near-cli-rs/tree/master/extensions), but until this project is stable you need to install the JS version `near-cli` to deploy your contracts.
 
 ```bash
 npm install --global near-cli
